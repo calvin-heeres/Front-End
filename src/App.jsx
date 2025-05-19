@@ -1,12 +1,12 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Homepage from './pages/Homepage';
-import MensenPage from './pages/MensenPage';
-import ExpertisesPage from './pages/ExpertisesPage';
-import ContactPage from './pages/ContactPage';
-import ProjectsPage from './pages/ProjectsPage';
-import PublicationsPage from './pages/PublicationsPage';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Homepage from "./pages/HomePage";
+import MensenPage from "./pages/MensenPage";
+import ExpertisesPage from "./pages/ExpertisesPage";
+import ContactPage from "./pages/ContactPage";
+import ProjectsPage from "./pages/ProjectsPage";
+import PublicationsPage from "./pages/PublicationsPage";
 
 function App() {
   return (
