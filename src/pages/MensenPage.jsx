@@ -4,7 +4,7 @@ import HeroSection from "../components/HeroSection";
 const MensenPage = () => (
   <main>
     <HeroSection
-      title="Mensen"
+      title="Onze Mensen"
       description="Placeholder description for Mensen page."
     />
     {/* Add other content for the Mensen page below */}

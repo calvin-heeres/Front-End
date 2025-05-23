@@ -4,7 +4,7 @@ import HeroSection from "../components/HeroSection";
 const ExpertisesPage = () => (
   <main>
     <HeroSection
-      title="Expertises"
+      title="Onze Expertises"
       description="Placeholder description for Expertises page."
     />
     {/* Add other content for the Expertises page below */}
