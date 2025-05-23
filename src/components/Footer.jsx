@@ -16,7 +16,6 @@ const Footer = () => {
             <li><a href="#" className="hover:underline">Mensen</a></li>
             <li><a href="#" className="hover:underline">Expertise</a></li>
             <li><a href="#" className="hover:underline">Opdrachten en projecten</a></li>
-            <li><a href="#" className="hover:underline">Publicaties</a></li>
             <li><a href="#" className="hover:underline">Contact</a></li>
           </ul>
         </div>

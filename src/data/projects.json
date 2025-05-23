@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Renovatie Stadsschouwburg",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Grootschalige renovatie van de Stadsschouwburg Amsterdam met behoud van historische elementen.",
+    "linkHref": "#",
+    "linkText": "Meer informatie"
+  },
+  {
+    "title": "Nieuwbouw Basisschool De Horizon",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Duurzame nieuwbouw van een basisschool in Amsterdam Noord met moderne faciliteiten.",
+    "linkHref": "#",
+    "linkText": "Meer informatie"
+  },
+  {
+    "title": "Herinrichting Oosterpark",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Herinrichting van het Oosterpark met focus op klimaatadaptatie en verbeterde recreatiemogelijkheden.",
+    "linkHref": "#",
+    "linkText": "Meer informatie"
+  }
+] 

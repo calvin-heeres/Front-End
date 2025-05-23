@@ -1,9 +1,14 @@
-import React from 'react';
+import React from "react";
+import HeroSection from "../components/HeroSection";
 
 const ExpertisesPage = () => (
-  <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-    <h1>Expertises</h1>
+  <main>
+    <HeroSection
+      title="Expertises"
+      description="Placeholder description for Expertises page."
+    />
+    {/* Add other content for the Expertises page below */}
   </main>
 );
 
-export default ExpertisesPage; 
+export default ExpertisesPage;
