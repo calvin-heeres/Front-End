@@ -21,10 +21,11 @@ const Header = () => {
     <header className="bg-white border-b border-gray-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          {/* Logo */}
-          <div className="flex-shrink-0">
+          {/* Logo*/} 
+          <div className="flex-shrink-0 flex items-center gap-4">
+            <div className="w-6 h-6 bg-red-600 transform rotate-45"></div>
             <Link to="/" className="text-xl font-bold text-red-600">
-              Gemeente Amsterdam
+              PMB Amsterdam
             </Link>
           </div>
 
