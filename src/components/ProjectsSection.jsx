@@ -8,11 +8,11 @@ const ProjectsSection = () => (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <h2 className="text-3xl font-bold mb-8">Recente projecten</h2>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
-        {projectsData.map((project, index) => (
+        {projectsData.slice(0, 3).map((project, index) => (
           <ProjectCard
             key={index}
             title={project.title}
-            imagePlaceholder={project.imagePlaceholder}
+            imageUrl={project.imageUrl}
             description={project.description}
             linkHref={project.linkHref}
             linkText={project.linkText}
@@ -20,9 +20,9 @@ const ProjectsSection = () => (
         ))}
       </div>
       <div className="text-center">
-        <button className="bg-red-600 text-white px-6 py-3 rounded-md">
+        <Link to="/projecten" className="inline-block bg-red-600 text-white px-6 py-3 rounded-md hover:bg-red-700">
           Alle projecten bekijken
-        </button>
+        </Link>
       </div>
     </div>
   </section>
