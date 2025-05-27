@@ -107,7 +107,11 @@ const ContactPage = () => (
               <h3 className="text-lg font-semibold text-gray-900">
                 Bezoekadres
               </h3>
-              <p className="text-gray-700">Project Management Bureau</p>
+              <p className="text-gray-700">
+                Project Management Bureau<br />
+                Weesperstraat 432<br />
+                1018 DN Amsterdam
+              </p>
             </div>
             <div>
               <h3 className="text-lg font-semibold text-gray-900">Contact</h3>
@@ -119,9 +123,18 @@ const ContactPage = () => (
               </h3>
               <p className="text-gray-700">Maandag t/m vrijdag</p>
             </div>
-            {/* Map Placeholder */}
-            <div className="w-full h-64 bg-gray-200 rounded-md flex items-center justify-center text-gray-500">
-              Map Placeholder
+            {/* Google Maps Embed */}
+            <div className="w-full h-[400px] rounded-lg overflow-hidden shadow-lg">
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.4753923658334!2d4.9092!3d52.3592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609c3e87c3e8f%3A0x0!2sWeesperstraat%20432%2C%201018%20DN%20Amsterdam!5e0!3m2!1sen!2snl!4v1647881234567!5m2!1sen!2snl"
+                width="100%"
+                height="100%"
+                style={{ border: 0 }}
+                allowFullScreen=""
+                loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
+                title="PMB Amsterdam Location"
+              ></iframe>
             </div>
           </div>
         </div>

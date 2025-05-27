@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from 'react-router-dom';
 
-const ProjectCard = ({ title, imageUrl, description, linkHref, linkText }) => (
+const ProjectCard = ({ title, imageUrl, description, index }) => (
   <div className="bg-white p-6 rounded-md shadow">
     {/* Project Image */}
     <img
@@ -15,9 +15,9 @@ const ProjectCard = ({ title, imageUrl, description, linkHref, linkText }) => (
     <p className="text-gray-700 mb-4">
       {description}
     </p>
-    <a href={linkHref} className="text-red-600 hover:underline">
-      {linkText}
-    </a>
+    <Link to={`/projecten/${index}`} className="text-red-600 hover:underline">
+      Meer informatie
+    </Link>
   </div>
 );
 
