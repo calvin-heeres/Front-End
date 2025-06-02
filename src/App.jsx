@@ -6,10 +6,13 @@ import MensenPage from "./pages/MensenPage";
 import ExpertisesPage from "./pages/ExpertisesPage";
 import ContactPage from "./pages/ContactPage";
 import ProjectsPage from "./pages/ProjectsPage";
+import ProjectDetail from "./pages/ProjectDetail";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="min-h-screen flex flex-col bg-gray-50">
         <Header />
         <div className="flex-grow">
@@ -19,6 +22,7 @@ function App() {
             <Route path="/expertises" element={<ExpertisesPage />} />
             <Route path="/contact" element={<ContactPage />} />
             <Route path="/projecten" element={<ProjectsPage />} />
+            <Route path="/projecten/:id" element={<ProjectDetail />} />
           </Routes>
         </div>
         <Footer />

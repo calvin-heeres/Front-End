@@ -1,23 +1,167 @@
 [
   {
-    "title": "Renovatie Stadsschouwburg",
+    "title": "Amsterdamse Impuls Schoolpleinen",
     "imagePlaceholder": "bg-gray-300",
-    "description": "Grootschalige renovatie van de Stadsschouwburg Amsterdam met behoud van historische elementen.",
+    "description": "Transformatie van schoolpleinen tot groene, gezonde en uitdagende speel- en leeromgevingen voor kinderen in Amsterdam.",
     "linkHref": "#",
-    "linkText": "Meer informatie"
+    "linkText": "Meer informatie",
+    "looptijd": "2020-2024",
+    "status": "In uitvoering",
+    "categorie": "Onderwijshuisvesting",
+    "imageUrl": "/src/data/project_img/Amsterdamse_Impuls_Schoolpleinen.jpg"
   },
   {
-    "title": "Nieuwbouw Basisschool De Horizon",
+    "title": "Sprong over het IJ",
     "imagePlaceholder": "bg-gray-300",
-    "description": "Duurzame nieuwbouw van een basisschool in Amsterdam Noord met moderne faciliteiten.",
+    "description": "Ontwikkeling van een nieuwe verbinding over het IJ, gericht op het verbeteren van de bereikbaarheid en het versterken van de stedelijke structuur.",
     "linkHref": "#",
-    "linkText": "Meer informatie"
+    "linkText": "Meer informatie",
+    "looptijd": "2022-2027",
+    "status": "In uitvoering",
+    "categorie": "Infrastructuur",
+    "imageUrl": "/src/data/project_img/sprong_over_t_ij.jpg"
   },
   {
-    "title": "Herinrichting Oosterpark",
+    "title": "Herinrichting Leidseplein",
     "imagePlaceholder": "bg-gray-300",
-    "description": "Herinrichting van het Oosterpark met focus op klimaatadaptatie en verbeterde recreatiemogelijkheden.",
+    "description": "Vernieuwing van het Leidseplein met focus op verbeterde verkeersstromen, meer groen en een aantrekkelijkere publieke ruimte.",
     "linkHref": "#",
-    "linkText": "Meer informatie"
+    "linkText": "Meer informatie",
+    "looptijd": "2023-2025",
+    "status": "In uitvoering",
+    "categorie": "Openbare ruimte",
+    "imageUrl": "/src/data/project_img/lleidseplein_e_v_eis-9x16.jpg"
+  },
+  {
+    "title": "Sluisbuurt",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Ontwikkeling van een nieuwe woonwijk in Amsterdam-Oost met duurzame woningen, voorzieningen en openbare ruimte.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2020-2025",
+    "status": "In uitvoering",
+    "categorie": "Gebiedsontwikkeling",
+    "imageUrl": "/src/data/project_img/sluisbuurt.jpg"
+  },
+  {
+    "title": "Gezonde Schoolgebouwen Amsterdam",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Programma voor het verbeteren van de kwaliteit van schoolgebouwen met focus op gezondheid, duurzaamheid en leerprestaties.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2021-2025",
+    "status": "In uitvoering",
+    "categorie": "Onderwijshuisvesting",
+    "imageUrl": "/src/data/project_img/gezond_schoolgebouw_16x9.jpg"
+  },
+  {
+    "title": "Westpoort en Sloterdijk",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Ontwikkeling van het bedrijventerrein Westpoort en het gebied Sloterdijk met focus op duurzaamheid en economische groei.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2022-2026",
+    "status": "In uitvoering",
+    "categorie": "Gebiedsontwikkeling",
+    "imageUrl": "/src/data/project_img/westpoort_sloterdijk.jpg"
+  },
+  {
+    "title": "Zelfbouw",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Programma voor het faciliteren van zelfbouwprojecten in Amsterdam, gericht op betaalbare en duurzame woningbouw.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2021-2025",
+    "status": "In uitvoering",
+    "categorie": "Woningbouw",
+    "imageUrl": "/src/data/project_img/Zelfbouw.jpg"
+  },
+  {
+    "title": "Amstelkwartier",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Ontwikkeling van een nieuwe woonwijk in Amsterdam-Zuid met duurzame woningen, voorzieningen en groene openbare ruimte.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2018-2025",
+    "status": "In uitvoering",
+    "categorie": "Gebiedsontwikkeling",
+    "imageUrl": "/src/data/project_img/amstelkwartier.jpg"
+  },
+  {
+    "title": "Bureau Broedplaatsen",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Beheer en ontwikkeling van broedplaatsen voor kunstenaars en creatieve ondernemers in Amsterdam.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2020-2024",
+    "status": "In uitvoering",
+    "categorie": "Cultureel vastgoed",
+    "imageUrl": "/src/data/project_img/bureau_Broedplaatsem.png"
+  },
+  {
+    "title": "Lelylaan",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Herontwikkeling van het gebied rond station Amsterdam Lelylaan met focus op wonen, werken en voorzieningen.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2022-2026",
+    "status": "In uitvoering",
+    "categorie": "Gebiedsontwikkeling",
+    "imageUrl": "/src/data/project_img/lelylaan.jpg"
+  },
+  {
+    "title": "Zuidas/ZuidasDok",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Ontwikkeling van de Zuidas als internationaal zakendistrict en het ZuidasDok project voor verbeterde infrastructuur.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2019-2027",
+    "status": "In uitvoering",
+    "categorie": "Gebiedsontwikkeling",
+    "imageUrl": "/src/data/project_img/zuidas-16x9.jpg"
+  },
+  {
+    "title": "Coördinatieteam asielzoekers / Lola Lik",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Coördinatie van de opvang en begeleiding van asielzoekers in Amsterdam, inclusief het Lola Lik centrum.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2022-2024",
+    "status": "In uitvoering",
+    "categorie": "Sociaal domein",
+    "imageUrl": "/src/data/project_img/Coordinatieteam.jpg"
+  },
+  {
+    "title": "Aanpak jeugdwerkloosheid",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Programma gericht op het verminderen van jeugdwerkloosheid in Amsterdam door middel van opleiding en werkgelegenheid.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2021-2024",
+    "status": "In uitvoering",
+    "categorie": "Sociaal domein",
+    "imageUrl": "/src/data/project_img/Aanpak_Jeugdwerkloosheid.jpg"
+  },
+  {
+    "title": "Nazorg na incidenten",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Programma voor het bieden van nazorg en ondersteuning na incidenten in de stad.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2020-2024",
+    "status": "In uitvoering",
+    "categorie": "Sociaal domein",
+    "imageUrl": "/src/data/project_img/Nazorg na.jpg"
+  },
+  {
+    "title": "Vernieuwing Erfpachtstelsel",
+    "imagePlaceholder": "bg-gray-300",
+    "description": "Modernisering van het erfpachtstelsel in Amsterdam voor een eerlijker en transparanter systeem.",
+    "linkHref": "#",
+    "linkText": "Meer informatie",
+    "looptijd": "2021-2025",
+    "status": "In uitvoering",
+    "categorie": "Vastgoed",
+    "imageUrl": "/src/data/project_img/vernieuwing_erfpachtstelsel-a.jpg"
   }
 ] 
