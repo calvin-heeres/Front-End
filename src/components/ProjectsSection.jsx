@@ -14,8 +14,7 @@ const ProjectsSection = () => (
             title={project.title}
             imageUrl={project.imageUrl}
             description={project.description}
-            linkHref={project.linkHref}
-            linkText={project.linkText}
+            index={index}
           />
         ))}
       </div>

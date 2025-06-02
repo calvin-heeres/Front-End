@@ -15,7 +15,7 @@ import sjaakHuijsmanImg from "../data/img/pmbweb_sjaak_huijsman_def_marjolijn_po
 const MensenPage = () => (
   <main>
     <HeroSection
-      title="Onze mensen"
+      title="Onze Mensen"
       description="Maak kennis met het team van PMB Amsterdam. Onze professionals werken samen aan het realiseren van projecten die bijdragen aan een betere stad."
     />
 
